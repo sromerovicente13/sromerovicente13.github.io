@@ -219,6 +219,23 @@
   width:379px;
   word-wrap:break-word;
 }
+
+
+#u150{
+  position:absolute;
+  left:-100px;
+  top:2795px;
+  width:800px;
+  word-wrap:break-word;
+}
+
+
+
+
+
+
+
+
 #u18 {
   position:absolute;
   left:168px;
@@ -380,6 +397,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+
+
+
+
+
+#u117_img {
+  position:absolute;
+  left:14px;
+  top:2450px;
+  width:1024px;
+  height:790px;
+}
+
+
+
+
+
+
+
+
+
+
+
 #u32 {
   position:absolute;
   left:173px;
@@ -598,6 +638,116 @@
   width:243px;
   height:4px;
 }
+
+
+
+
+
+
+
+
+
+
+
+#u118_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:91px;
+}
+#u119 {
+  position:absolute;
+  left:2px;
+  top:38px;
+  width:76px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u120{
+  position:absolute;
+  left:206px;
+  top:2420px;
+  width:243px;
+  height:10px;
+}
+#u120_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u120_end {
+  position:absolute;
+  left:226px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u120_line {
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:243px;
+  height:4px;
+}
+#u121 {
+  position:absolute;
+  left:570px;
+  top:2420px;
+  width:243px;
+  height:10px;
+}
+#u121_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u121_end {
+  position:absolute;
+  left:226px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u121_line {
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:243px;
+  height:4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #u48 {
   position:absolute;
   left:198px;
@@ -817,14 +967,14 @@
 #u68 {
   position:absolute;
   left:0px;
-  top:2375px;
+  top:2500px;
   width:1024px;
   height:100px;
 }
 #u68_img {
   position:absolute;
   left:0px;
-  top:0px;
+  top:790px;
   width:1024px;
   height:100px;
 }
@@ -839,7 +989,7 @@
 #u70 {
   position:absolute;
   left:313px;
-  top:2417px;
+  top:3330px;
   width:398px;
   height:16px;
   color:#FFFFFF;
@@ -855,7 +1005,7 @@
 #u71 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:790px;
   width:398px;
   white-space:nowrap;
 }
@@ -869,7 +1019,7 @@
 #u72_img {
   position:absolute;
   left:0px;
-  top:0px;
+  top:910px;
   width:1024px;
   height:10px;
 }

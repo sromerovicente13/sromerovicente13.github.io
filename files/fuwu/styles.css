@@ -568,7 +568,7 @@
 #u46 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-11px;
   width:136px;
   word-wrap:break-word;
 }
@@ -612,7 +612,7 @@
 #u50 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-14px;
   width:136px;
   word-wrap:break-word;
 }
@@ -733,7 +733,7 @@
 }
 #u60 {
   position:absolute;
-  left:0px;
+  left:-26px;
   top:0px;
   width:91px;
   white-space:nowrap;
@@ -781,7 +781,7 @@
 }
 #u64 {
   position:absolute;
-  left:0px;
+  left:-5px;
   top:0px;
   width:76px;
   white-space:nowrap;
