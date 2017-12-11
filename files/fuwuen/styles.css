@@ -677,7 +677,7 @@
 #u57 {
   position:absolute;
   left:600px;
-  top:448px;
+  top:439px;
   width:48px;
   height:17px;
   font-family:'Arial Negreta', 'Arial';
@@ -695,8 +695,8 @@
 }
 #u58 {
   position:absolute;
-  left:0px;
-  top:0px;
+  left:-40px;
+  top:-8px;
   width:48px;
   white-space:nowrap;
 }
