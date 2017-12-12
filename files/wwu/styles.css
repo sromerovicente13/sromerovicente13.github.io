@@ -40,14 +40,14 @@
   left:0px;
   top:0px;
   width:1024px;
-  height:480px;
+  height:300px;
 }
 #u2_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1024px;
-  height:480px;
+  height:300px;
 }
 #u3 {
   position:absolute;
@@ -66,7 +66,7 @@
 }
 #u4_img {
   position:absolute;
-  left:-60px;
+  left:0px;
   top:0px;
   width:33px;
   height:38px;
@@ -91,7 +91,7 @@
 }
 #u6_img {
   position:absolute;
-  left:-60px;
+  left:0px;
   top:0px;
   width:133px;
   height:31px;
@@ -114,9 +114,9 @@
 #u8_img {
   position:absolute;
   left:-8px;
-  top:-3px;
+  top:-100px;
   width:704px;
-  height:282px;
+  height:200px;
 }
 #u9 {
   position:absolute;
@@ -136,7 +136,7 @@
 #u10_img {
   position:absolute;
   left:-8px;
-  top:-3px;
+  top:-103px;
   width:70px;
   height:66px;
 }
@@ -159,7 +159,7 @@
 #u12_img {
   position:absolute;
   left:0px;
-  top:0px;
+  top:-170px;
   width:200px;
   height:286px;
 }
@@ -192,8 +192,8 @@
 #u15 {
   position:absolute;
   left:0px;
-  top:0px;
-  width:105px;
+  top:-90px;
+  width:155px;
   word-wrap:break-word;
 }
 #u16 {
@@ -1053,56 +1053,6 @@
   width:19px;
   white-space:nowrap;
 }
-
-
-
-
-
-
-
-
-#u780 {
-  position:absolute;
-  left:400px;
-  top:24px;
-  width:72px;
-  height:16px;
-  color:#FFFFFF;
-}
-#u780_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:72px;
-  height:16px;
-}
-#u780_img.mouseOver {
-}
-#u780.mouseOver {
-}
-#u790 {
-  position:absolute;
-  left:-17px;
-  top:0px;
-  width:80px;
-  word-wrap:break-word;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #u78 {
   position:absolute;
   left:476px;
@@ -1210,54 +1160,6 @@
   width:78px;
   word-wrap:break-word;
 }
-
-
-
-
-
-
-
-
-
-
-#u860 {
-  position:absolute;
-  left:489px;
-  top:46px;
-  width:25px;
-  height:10px;
-}
-#u860_start {
-  position:absolute;
-  left:0px;
-  top:-5px;
-  width:18px;
-  height:20px;
-}
-#u860_end {
-  position:absolute;
-  left:8px;
-  top:-5px;
-  width:18px;
-  height:20px;
-}
-#u860_line {
-  position:absolute;
-  left:-80px;
-  top:3px;
-  width:25px;
-  height:5px;
-}
-
-
-
-
-
-
-
-
-
-
 #u86 {
   position:absolute;
   left:489px;
@@ -1499,7 +1401,7 @@
 }
 #u101 {
   position:absolute;
-  left:0px;
+  left:13px;
   top:0px;
   width:101px;
   white-space:nowrap;
