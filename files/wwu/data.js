@@ -1656,7 +1656,35 @@
             "size":{
               "width":72,
               "height":16}},
+          "adaptiveStyles":{     
+          
+// aqui esta la nueva addition de 780
+                              
+{
+          "id":"aca11ec7b70f5ebe9447c5c261c14b47",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "underline":true}},
+            "location":{
+              "x":476,
+              "y":24},
+            "size":{
+              "width":72,
+              "height":16}},
           "adaptiveStyles":{
+          
+          
+ // aqui se acaba la addition                   
+          
 },
           "objects":[{
               "id":"f5403561c3a14e8781a475d9e930a56f",
@@ -1681,6 +1709,34 @@
                   "height":16}},
               "adaptiveStyles":{
 }}],
+//aqui esta el addition de 790
+
+"objects":[{
+              "id":"f6514672c4a25e9892a586d9e841a67f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "underline":true}},
+                "location":{
+                  "x":476,
+                  "y":24},
+                "size":{
+                  "width":72,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+
+// aqui se acaba el addition de 790
+
           "interactionMap":{
             "onClick":{
               "description":"OnClick",
@@ -2538,9 +2594,9 @@
     "393e06cb22904212bc91faea014cc2c0":{
       "scriptId":"u1"},
     "e576bd898dd04563aca8518d6384603d":{
-      "scriptId":"u2"},
+      "scriptId":"u200"},
     "37c74daa4b3d482cb005af3ceeb7288b":{
-      "scriptId":"u3"},
+      "scriptId":"u300"},
     "2c6b9c8861924059bebe4e2b8bdccdb1":{
       "scriptId":"u4"},
     "59e322d3cf9d4130a2b881206bb29378":{
@@ -2556,15 +2612,15 @@
     "20ba5152d12e4777a2a8c50feabb45b3":{
       "scriptId":"u10"},
     "1d4a7cd1c5124bc1a1151ba4b977aeeb":{
-      "scriptId":"u11"},
+      "scriptId":"u1111"},
     "3420862106944d12bcc3e87679f1d9d4":{
       "scriptId":"u12"},
     "321fab54de0d4458b968600fd2911b64":{
-      "scriptId":"u13"},
+      "scriptId":"u1313"},
     "bc4218edc9804759bab9f6b4c9b48805":{
-      "scriptId":"u14"},
+      "scriptId":"u1314"},
     "a0f939b075744e2f8cb1b4c6cb888415":{
-      "scriptId":"u15"},
+      "scriptId":"u150"},
     "e793fe0fd49c4982971110bccb20d1f1":{
       "scriptId":"u16"},
     "b7d3f6c3e06648a18ad4d0eb8f923a09":{
@@ -2691,8 +2747,12 @@
       "scriptId":"u77"},
     "dca10ec8b70f4ebe8338c4c150c05b36":{
       "scriptId":"u78"},
+    "aca11ec7b70f5ebe9447c5c261c14b47":{
+      "scriptId":"u780"},
     "f5403561c3a14e8781a475d9e930a56f":{
       "scriptId":"u79"},
+    "f6514672c4a25e9892a586d9e841a67f":{
+      "scriptId":"u790"},
     "3c9ee911944a4ad4aa741b593fb80ea4":{
       "scriptId":"u80"},
     "6fac24f7331c44f0a6c44be25a5023a4":{
@@ -2706,7 +2766,7 @@
     "817a1ae3cbea43bba77ddf0cd6ef03bb":{
       "scriptId":"u85"},
     "bf732d60231e4141bb9c9b40cadfa609":{
-      "scriptId":"u86"},
+      "scriptId":"u860"},
     "932de16c15734cca93dd2bd225b874b5":{
       "scriptId":"u87"},
     "be9b7ce18b6c4ae48b1eb7df3305a4cd":{
@@ -2730,9 +2790,9 @@
     "747283d9dc0d481786c381a2745ff2b7":{
       "scriptId":"u97"},
     "c7b3a1c46744429a842f8eafcf812369":{
-      "scriptId":"u98"},
+      "scriptId":"u980"},
     "288c7c800e1a4b348484545e67ddf0d6":{
-      "scriptId":"u99"},
+      "scriptId":"u990"},
     "9c0b87e3295e4fa584b649449138c9eb":{
       "scriptId":"u100"},
     "df33610ff43b4accb4819e799eb885d0":{
