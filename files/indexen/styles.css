@@ -1558,9 +1558,12 @@
   width:800px;
   word-wrap:break-word;
   text-align: justify;
-  font-family: "Arial Normal,Arial";
+  font-family: "Arial Normal','Arial";
   font-size: 15px;
   color: #666666;
+  font-weight: 400;
+  font-style: normal;
+  line-height: normal;
 }
 
 #u109 {
