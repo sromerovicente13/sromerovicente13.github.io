@@ -74,28 +74,43 @@
   word-wrap:break-word;
 }
 
-#u200 {
+
+
+
+
+
+
+
+
+#u116 {
   position:absolute;
-  left:529px;
+  left:80px;
   top:1176px;
   width:420px;
-  height:249px;
+  height:413px;
 }
-#u200_img {
+#u116_img {
   position:absolute;
   left:0px;
   top:0px;
   width:600px;
   height:251px;
 }
-#u300 {
+#u117 {
   position:absolute;
   left:2px;
-  top:116px;
+  top:198px;
   width:416px;
   visibility:hidden;
   word-wrap:break-word;
 }
+
+
+
+
+
+
+
 
 #u4 {
   position:absolute;

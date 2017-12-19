@@ -99,64 +99,6 @@
 }}],
           "images":{
             "normal~":"images/tuanduien/yangjie_u2.png"}},
-            
-            
-            
-            
-            
-            
-            
-            
-            
-       {
-          "id":"58e31c36a8c74f389419a75ac2d62654",
-          "label":"yizhou",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":false,
-          "style":{
-            "location":{
-              "x":800,
-              "y":1176},
-            "size":{
-              "width":420,
-              "height":413},
-            "visible":false},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"c5cfa62e9f7d44578fca3e2ccfdfcc87",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":false,
-              "style":{
-                "location":{
-                  "x":800,
-                  "y":1176},
-                "size":{
-                  "width":420,
-                  "height":413},
-                "visible":false},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/tuanduien/yizhou.png "}},     
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
 {
           "id":"58e31c36a8c74f389419a75ac2d62653",
           "label":"chenjinghong",
@@ -2059,222 +2001,6 @@
                   "height":121}},
               "adaptiveStyles":{
 }}],
-
-
-
-//aqui empieza yizhou
-
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"fadeWidget",
-                      "description":"显示 yizhou 灯箱效果",
-                      "objectsToFades":[{
-                          "objectPath":["58e31c36a8c74f389419a75ac2d62654"],
-                          "fadeInfo":{
-                            "fadeType":"show",
-                            "options":{
-                              "showType":"lightbox",
-                              "lightbox":{
-                                "r":47,
-                                "g":79,
-                                "b":79,
-                                "a":155}}}}]}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/tuandui/U104.png"}},
-{
-          "id":"024c5544bb8a4741b41753d2ab993058",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h1",
-          "visible":true,
-          "style":{
-            "fontName":"'Arial Normal', 'Arial'",
-            "fontSize":"18px",
-            "fontWeight":"400",
-            "horizontalAlignment":"center",
-            "verticalAlignment":"bottom",
-            "location":{
-              "x":134,
-              "y":1349},
-            "size":{
-              "width":94,
-              "height":22}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"32f718e85c44498ca4751f4e1a2fd0b2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontName":"'Arial Normal', 'Arial'",
-                "fontSize":"18px",
-                "fontWeight":"400",
-                "horizontalAlignment":"center",
-                "verticalAlignment":"bottom",
-                "location":{
-                  "x":134,
-                  "y":1349},
-                "size":{
-                  "width":94,
-                  "height":22}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"9f7ae7b3c8b145a994271daaa779f508",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"15px",
-            "horizontalAlignment":"center",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFD6323F,
-              "opacity":1},
-            "location":{
-              "x":114,
-              "y":1382},
-            "size":{
-              "width":136,
-              "height":17}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"d0fa983566014490999877b24a9bbbcc",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"15px",
-                "horizontalAlignment":"center",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFD6323F,
-                  "opacity":1},
-                "location":{
-                  "x":114,
-                  "y":1382},
-                "size":{
-                  "width":136,
-                  "height":17}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"0e9545f1963f45eca44567557ba9dca5",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "fontSize":"15px",
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFFFFFFFF,
-              "opacity":1},
-            "lineSpacing":"18px",
-            "location":{
-              "x":290,
-              "y":1194},
-            "size":{
-              "width":199,
-              "height":195}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"7e30a14b698b4a37af792bbc9ec21a5f",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"15px",
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFFFF,
-                  "opacity":1},
-                "lineSpacing":"18px",
-                "location":{
-                  "x":290,
-                  "y":1194},
-                "size":{
-                  "width":199,
-                  "height":195}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"51e3805d1b9d4452be04be286442a26e",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFF373737},
-            "location":{
-              "x":0,
-              "y":1500},
-            "size":{
-              "width":1024,
-              "height":100}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"46881abdd7c1416eaff20921990199de",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFF373737},
-                "location":{
-                  "x":0,
-                  "y":1500},
-                "size":{
-                  "width":1024,
-                  "height":100}},
-              "adaptiveStyles":{
-}}],
-
-
-
-
-
-
-
-// aqui acaba yizhou
-
-
-
-
-
-
-
-
-
-
           "interactionMap":{
             "onClick":{
               "description":"OnClick",
@@ -3382,10 +3108,6 @@
       "scriptId":"u2"},
     "32713f735d464a2c9c0a0d57ffeb7423":{
       "scriptId":"u3"},
-    "58e31c36a8c74f389419a75ac2d62654":{
-      "scriptId":"u116"},
-    "c5cfa62e9f7d44578fca3e2ccfdfcc87":{
-      "scriptId":"u117"},
     "58e31c36a8c74f389419a75ac2d62653":{
       "scriptId":"u4"},
     "c5cfa62e9f7d44578fca3e2ccfdfcc86":{
@@ -3534,60 +3256,22 @@
       "scriptId":"u76"},
     "e74919b441db480eac4667e2606c533d":{
       "scriptId":"u77"},
-      
-      
-      
-      //yizhou
-      
-      
-    "024c5544bb8a4741b41753d2ab993058":{
-      "scriptId":"u780"},
-      
     "024c5544bb8a4741b41753d2ab993057":{
       "scriptId":"u78"},
-      
-      
-    "32f718e85c44498ca4751f4e1a2fd0b2":{
-      "scriptId":"u790"},
     "32f718e85c44498ca4751f4e1a2fd0b1":{
       "scriptId":"u79"},
-      
-    "9f7ae7b3c8b145a994271daaa779f508":{
-      "scriptId":"u800"},
     "9f7ae7b3c8b145a994271daaa779f507":{
       "scriptId":"u80"},
-      
-    "d0fa983566014490999877b24a9bbbcc":{
-      "scriptId":"u810"},
     "d0fa983566014490999877b24a8bbbcc":{
       "scriptId":"u81"},
-      
-    "0e9545f1963f45eca44567557ba9dca5":{
-      "scriptId":"u820"}, 
     "0e9545f1963f45eca44567557ba9dca4":{
       "scriptId":"u82"},
-      
-      
-    "7e30a14b698b4a37af792bbc9ec21a5f":{
-      "scriptId":"u830"},  
     "7e30a14b698b4a37af792bbc9ec21a4f":{
       "scriptId":"u83"},
-      
-      
-      
-    "51e3805d1b9d4452be04be286442a26e":{
-      "scriptId":"u840"},    
     "51e3805d1b9d4452be04be286442a25e":{
       "scriptId":"u84"},
-      
-
-    "46881abdd7c1416eaff20921990199de":{
-      "scriptId":"u850"},  
     "46881abdd7c1416eaff20921990188de":{
       "scriptId":"u85"},
- 
- //yi acaba     
-      
     "0c7bc6d7722c4c4c991f37283ca07b42":{
       "scriptId":"u86"},
     "63df6fb1831146d2a7c76c6981e89a8b":{
