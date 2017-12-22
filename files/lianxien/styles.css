@@ -135,7 +135,7 @@
   left:-15px;
   top:-10px;
   width:632px;
-  height:514px;
+  height:554px;
 }
 #u11 {
   position:absolute;
@@ -263,10 +263,62 @@
   width:111px;
   white-space:nowrap;
 }
+
+
+
+
+
+
+
+
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+	input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+	input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+	input[type=submit]:hover {
+    background-color: #c11e2e;
+}
+
+/* Add a background color and some padding around the form */
+	.container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+
+
+
+ 
+
+
+
 #u20 {
   position:absolute;
   left:319px;
-  top:965px;
+  top:935px;
   width:400px;
   height:25px;
 }
@@ -285,124 +337,12 @@
   font-style:normal;
   text-decoration:none;
 }
-#u21 {
-  position:absolute;
-  left:319px;
-  top:1005px;
-  width:400px;
-  height:25px;
-}
-#u21_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:400px;
-  height:25px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#999999;
-  font-weight:normal;
-  font-style:normal;
-  text-decoration:none;
-}
-#u22 {
-  position:absolute;
-  left:319px;
-  top:1050px;
-  width:400px;
-  height:130px;
-}
-#u22_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:400px;
-  height:130px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#999999;
-  font-weight:normal;
-  font-style:normal;
-  text-decoration:none;
-}
-#u23 {
-  position:absolute;
-  left:465px;
-  top:1190px;
-  width:99px;
-  height:30px;
-  color:#FFFFFF;
-}
-#u23_img {
-  position:absolute;
-  left:-2px;
-  top:-2px;
-  width:109px;
-  height:40px;
-}
-#u23_img.mouseDown {
-  left:0px;
-  top:0px;
-  width:99px;
-  height:30px;
-}
-#u23.mouseDown {
-}
-#u24 {
-  position:absolute;
-  left:2px;
-  top:7px;
-  width:95px;
-  word-wrap:break-word;
-}
-#u25 {
-  position:absolute;
-  left:0px;
-  top:1300px;
-  width:1024px;
-  height:100px;
-}
-#u25_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1024px;
-  height:100px;
-}
-#u26 {
-  position:absolute;
-  left:2px;
-  top:42px;
-  width:1020px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u27 {
-  position:absolute;
-  left:0px;
-  top:920px;
-  width:1024px;
-  height:10px;
-}
-#u27_img {
-  position:absolute;
-  left:0px;
-  top:475px;
-  width:1024px;
-  height:10px;
-}
-#u28 {
-  position:absolute;
-  left:2px;
-  top:-3px;
-  width:1020px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
+
+
+
+
+
+
 #u29 {
   position:absolute;
   left:314px;
